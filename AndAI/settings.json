@@ -1,0 +1,16 @@
+{
+  "adb_path": "C:\\Users\\Matwej\\Downloads\\platform-tools-latest-windows\\platform-tools\\adb.exe",
+  "ai_mode": "torch",
+  "brain_path": "C:/AI/brain.json",
+  "model": "gpt-6-astra",
+  "scrcpy_path": "C:\\Users\\Matwej\\Downloads\\scrcpy-win64-v5.0.1\\scrcpy-win64-v5.0.1\\scrcpy.exe",
+  "ollama_model": "qwen3-vl:4b",
+  "ollama_url": "http://localhost:11434",
+  "dictionary_url": "",
+  "curiosity_mode": true,
+  "torch_model": "Qwen/Qwen2.5-VL-3B-Instruct",
+  "torch_brain_path": "C:/Users/Matwej/Desktop/Basteln/MULTIPROGRAMMING/AndAI/torch_brain.pt",
+  "action_delay_ms": 100,
+  "screen_memory_path": "C:/Users/Matwej/Desktop/Chess.com/screen_memory.json",
+  "protected_zones": []
+}

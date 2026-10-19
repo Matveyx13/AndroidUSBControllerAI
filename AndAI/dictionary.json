@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "vocabulary": {
+    "экран": ["screen", "display"],
+    "нажать": ["tap", "click", "press"],
+    "свайп": ["swipe", "scroll"],
+    "удерживать": ["hold", "long press"],
+    "ввести текст": ["type text", "enter text"],
+    "перезагрузить": ["reboot", "restart"],
+    "загрузчик": ["bootloader", "fastboot"],
+    "назад": ["back"],
+    "домой": ["home"],
+    "громкость вверх": ["volume up", "volume louder"],
+    "громкость вниз": ["volume down", "volume quieter"],
+    "питание": ["power", "power button"],
+    "вай-фай": ["wi-fi", "wifi", "wireless"],
+    "блютуз": ["bluetooth", "bt"],
+    "мобильные данные": ["mobile data", "cellular data"]
+  },
+  "commands": {
+    "wifi_on": ["включи wi-fi", "включить wi-fi", "включи вайфай", "включить вайфай", "wifi on", "wi-fi on", "turn on wifi", "turn on wi-fi", "enable wifi", "enable wi-fi"],
+    "wifi_off": ["выключи wi-fi", "выключить wi-fi", "выключи вайфай", "выключить вайфай", "wifi off", "wi-fi off", "turn off wifi", "turn off wi-fi", "disable wifi", "disable wi-fi"],
+    "data_on": ["включи мобильные данные", "включить мобильные данные", "mobile data on", "turn on mobile data", "enable mobile data", "enable cellular data"],
+    "data_off": ["выключи мобильные данные", "выключить мобильные данные", "mobile data off", "turn off mobile data", "disable mobile data", "disable cellular data"],
+    "bluetooth_on": ["включи bluetooth", "включить bluetooth", "включи блютуз", "включить блютуз", "bluetooth on", "turn on bluetooth", "enable bluetooth"],
+    "bluetooth_off": ["выключи bluetooth", "выключить bluetooth", "выключи блютуз", "выключить блютуз", "bluetooth off", "turn off bluetooth", "disable bluetooth"],
+    "bootloader": ["bootloader", "boot loader", "fastboot", "загрузчик", "режим загрузчика", "в bootloader", "enter bootloader"],
+    "recovery": ["recovery", "рекавери", "режим восстановления", "enter recovery"],
+    "reboot": ["перезагрузи телефон", "перезагрузить телефон", "перезагрузить android", "reboot phone", "restart phone", "reboot system", "restart android"],
+    "press": ["нажми", "нажать", "нажми кнопку", "press", "press the", "push the"],
+    "long_press": ["удержи", "удерживай", "зажми", "долгое нажатие", "hold", "long press", "long-press"],
+    "power": ["кнопка питания", "питание", "power button", "power"],
+    "volume_up": ["громкость вверх", "громкость плюс", "volume up", "volume louder"],
+    "volume_down": ["громкость вниз", "громкость минус", "volume down", "volume quieter"],
+    "home": ["домой", "на главный экран", "go home", "home button"],
+    "back": ["назад", "вернись назад", "go back", "back button"],
+    "recents": ["недавние", "последние приложения", "recent apps", "recents"],
+    "tap": ["tap", "click", "нажми", "нажать", "нажми на экран", "тап", "коснись"],
+    "swipe": ["swipe", "свайп", "пролистай"],
+    "type": ["type", "type text", "введи", "напиши", "напечатай"]
+  }
+}
